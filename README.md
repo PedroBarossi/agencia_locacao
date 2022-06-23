@@ -15,3 +15,5 @@ As instruções eram, de forma resumida, as seguintes:
     - cardinalidade
 - Popular cada tabela com, ao menos, 5 entradas
 - Criar 5 usuários com privilégios diferentes
+
+Modelos conceitual e relacional feitos com o auxílio da ótima ferramenta disponível no site da [Vertabelo](https://vertabelo.com/)
